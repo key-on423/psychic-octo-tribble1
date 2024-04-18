@@ -629,7 +629,12 @@ int main()
 //}
 
 
-
+int main()
+{
+    printf("The date is 2024/4/19\n");
+    printf("Wish you have a good day, sir!\n");
+    return 0;
+}
 
 
 
